@@ -32,4 +32,4 @@ while (condition) {
   condition = addmoretask.addmore;
 }
 
-console.log(chalk.magenta("your Todo list"), todolist);
+console.log(chalk.blueBright("your Todo list"), todolist);
